@@ -8,6 +8,7 @@
 
 import os, sys
 sys.path.insert(0, os.path.abspath('..'))
+# sys.path.insert(0, os.path.abspath('..\\sphinx\\yclib'))
 
 project = 'sphinx'
 copyright = '2022, hassan'

@@ -12,8 +12,10 @@ Description for this website. Sphinx sphinx.
    :maxdepth: 2
    :caption: Contents:
 
-   code
-
+   functions
+   reader
+   report
+   task
 
 Indices and tables
 ==================

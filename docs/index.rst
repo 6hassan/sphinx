@@ -9,11 +9,13 @@ Welcome to sphinx doc site's documentation!
 Description for this website. Sphinx sphinx.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
 
-   code
-
+   functions
+   reader
+   report
+   task
 
 Indices and tables
 ==================
