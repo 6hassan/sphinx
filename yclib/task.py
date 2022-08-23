@@ -1,5 +1,9 @@
 import luigi
 
+def l():
+    """l function"""
+    pass
+
 class A(luigi.Task):
     """
     Class A Descriptionssssss
