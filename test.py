@@ -23,3 +23,10 @@ def f2(a,b):
     """
     a=b
     return a
+
+def f3():
+    """
+    fghjk
+    hjkl
+    """
+    return None

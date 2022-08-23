@@ -9,7 +9,7 @@ Welcome to sphinx doc site's documentation!
 Description for this website. Sphinx sphinx.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    code
