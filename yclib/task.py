@@ -1,8 +1,8 @@
-import luigi
+# import luigi
 
 def l():
     """l function"""
-    pass
+    return None
 
 # class A(luigi.Task):
 #     """
