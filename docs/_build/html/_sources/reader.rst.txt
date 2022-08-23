@@ -1,5 +1,5 @@
 Reader Documentation
 ====================
 
-.. automodule:: yclib.reader
+.. automodule:: reader
     :members:

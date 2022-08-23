@@ -1,5 +1,5 @@
 Report Documentation
 ====================
 
-.. automodule:: yclib.report
+.. automodule:: report
     :members:

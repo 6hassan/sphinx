@@ -1,5 +1,5 @@
 Functions Documentation
 =======================
 
-.. automodule:: yclib.functions
+.. automodule:: functions
     :members:

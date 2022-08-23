@@ -1,5 +1,5 @@
 Task Documentation
 ==================
 
-.. automodule:: yclib.task
+.. automodule:: task
     :members:
