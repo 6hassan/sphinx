@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 import os, sys
-# sys.path.insert(0, os.path.abspath('..'))
-sys.path.insert(0, os.path.abspath('..\\yclib'))
-sys.path.insert(0, os.path.abspath('..\\sphinx\\yclib'))
+sys.path.insert(0, os.path.abspath('..'))
+# sys.path.insert(0, os.path.abspath('..\\yclib'))
+# sys.path.insert(0, os.path.abspath('..\\sphinx\\yclib'))
 
 project = 'sphinx'
 copyright = '2022, hassan'
